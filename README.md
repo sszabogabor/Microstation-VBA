@@ -1,4 +1,3 @@
-# Microstation-VBA-
-tools for Microstation (2008)
-tools written in Microstation 2007-2008
+# Microstation-VBA
+Tools for Microstation V8i (2007-2008)
 
